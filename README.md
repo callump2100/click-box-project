@@ -27,3 +27,4 @@ This project is part of my JavaScript learning journey, focusing on DOM events a
 ## 🔗 Live Demo
 https://callump2100.github.io/click-box-project/
 
+
