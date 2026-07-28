@@ -14,6 +14,7 @@ A simple interactive JavaScript project where a button changes the color and tex
 
 ## How It Works
 The project uses simple DOM manipulation and event listeners:
+
 - `click`
 - `mouseover`
 - `mouseout`
@@ -25,3 +26,4 @@ This project is part of my JavaScript learning journey, focusing on DOM events a
 
 ## 🔗 Live Demo
 https://callump2100.github.io/click-box-project/
+
